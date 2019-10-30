@@ -1,5 +1,5 @@
 <script>
-  import getHexCorner from "./getHexCorner.js";
+  import getHexCorner from "./helpers/getHexCorner";
   export let name;
   export let value;
   export let direction;

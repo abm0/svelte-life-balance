@@ -1,6 +1,6 @@
 import throttle from 'lodash/throttle';
 
-import { radar, activeSector } from "./store.js";
+import { radar, activeSector } from "../store";
 /* директива get нужна для получения текущего значения хранилища без подписки на само хранилище */
 import { get } from "svelte/store";
 
