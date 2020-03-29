@@ -8,4 +8,4 @@
 
 ## Preview
 
-Follow the [link]() to preview app
+Follow the [link](https://abm0.github.io/svelte-life-balance/) to preview app
